@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # PizzeriaBellaNapoli
-=======
+
 # myapp
 
 A new Flutter project.
